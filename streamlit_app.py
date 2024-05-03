@@ -129,7 +129,7 @@ def show_about_page():
     st.write("This app was created to predict the Energy Consumption using Machine Learning model."
              )
     st.markdown("### GitHub Repository")
-    github_link = "https://github.com/amansharma-tech/steel"
+    github_link = "https://github.com/amansharma-tech/Proactive_ENergy_Consumtion_Steel"
     st.markdown(
         f"Check out the [GitHub repository]({github_link}) for more details and to access the source code."
     )
