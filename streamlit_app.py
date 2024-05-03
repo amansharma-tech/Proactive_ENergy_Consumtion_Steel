@@ -97,7 +97,7 @@ def show_prediction_page():
 
     # Add a selectbox for choosing the prediction model
     prediction_model = st.selectbox('Prediction Model', [
-                                    'Linear Regression', 'Ridge Regression', 'Lasso Regression', 'Elastic Net Regression','SVR'])
+                                    'Linear Regression', 'Ridge Regression', 'Lasso Regression', 'Elastic Net Regression'])
 
     # Load the selected prediction model
     if prediction_model == 'Linear Regression':
