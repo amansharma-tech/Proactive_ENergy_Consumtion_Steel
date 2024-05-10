@@ -4,14 +4,7 @@
 
 This project aims to develop a predictive model for energy consumption. The model utilizes historical data and various input features to forecast energy usage patterns and provide insights into energy management.
 
-## Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
+
 
 ## Overview
 The Energy Consumption Predictor project focuses on developing a predictive model that accurately forecasts energy consumption based on historical data and relevant input features. By analyzing factors such as reactive power, CO2 emissions, power factor, and time-based patterns, the model aims to provide insights and support decision-making related to energy management.
